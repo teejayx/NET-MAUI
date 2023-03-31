@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{9BCD0571-2F6F-40F3-9227-D5208B40350D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauitTest.Test", "MauitTest.Test\MauitTest.Test.csproj", "{D5E6E8A8-9ACD-4E26-A961-5A8857716B31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneWordTranslatorApp.Test", "MauitTest.Test\PhoneWordTranslatorApp.Test.csproj", "{D5E6E8A8-9ACD-4E26-A961-5A8857716B31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
